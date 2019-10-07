@@ -1,3 +1,4 @@
+{:no_toc}
 # Twitter Topic Modelling
 
 * TOC
