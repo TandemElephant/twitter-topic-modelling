@@ -1,5 +1,5 @@
-{:no_toc}
 # Twitter Topic Modelling
+{: .no_toc}
 
 * TOC
 {:toc}
