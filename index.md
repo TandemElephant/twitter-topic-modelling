@@ -17,5 +17,5 @@ Before working with the downloaded tweets, the data must be "cleaned". This mean
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](./img/maga_cloud.png)  |  ![](./img/brexit_cloud.png)
+![](./img/london_cloud.png)  |  ![](./img/brexit_cloud.png)
 
