@@ -19,7 +19,7 @@ Here are some wordclouds for those who like it.
 
 \#brexit            |  \#MAGA
 :-------------------------:|:-------------------------:
-![](./img/london_cloud.png)  |  ![](./img/maga_cloud.png)
+![](./img/brexit_cloud.png)  |  ![](./img/maga_cloud.png)
 
 London (20 km)             |  New York (20 km)
 :-------------------------:|:-------------------------:
