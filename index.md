@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Table of Contents
+=======
+# Table of Contents
+>>>>>>> b18c78b77cd6cecc4283e50c4a30a4e260296d84
 
 * TOC
 {:toc}
