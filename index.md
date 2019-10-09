@@ -1,9 +1,3 @@
-# Table of Contents
-{: .no_toc}
-
-* TOC
-{:toc}
-
 # Introduction
 
 Currently it can be found following this link to [introduction](./notebooks/introduction.html).
