@@ -4,4 +4,5 @@ Topic modelling of tweets, using two different approaches:
 - The pLSI based LDA (Latent Dirichlet Allocation)
 - Community detection on word co-occurence network 
 
-For project description see **notebooks/introduction.ipynb**, or if it does not load, use this [link](http://htmlpreview.github.io/?https://github.com/TandemElephant/twitter-topic-modelling/blob/master/notebooks/introduction.html) (but the figures are not at the right place for some reason...).
+## Instructions for reproducing:
+- First of all, graph-tool will be needed for doing the hSBM topic modelling. You can find instructions for installing it [https://git.skewed.de/count0/graph-tool/wikis/installation-instructions](here)
