@@ -5,4 +5,4 @@ Topic modelling of tweets, using two different approaches:
 - Community detection on word co-occurence network 
 
 ## Instructions for reproducing:
-- First of all, graph-tool will be needed for doing the hSBM topic modelling. You can find instructions for installing it [https://git.skewed.de/count0/graph-tool/wikis/installation-instructions](here)
+- First of all, graph-tool will be needed for doing the hSBM topic modelling. You can find instructions for installing it [here](https://git.skewed.de/count0/graph-tool/wikis/installation-instructions)
